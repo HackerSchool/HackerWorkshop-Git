@@ -30,7 +30,7 @@ Apenas os x-biters (impostores) recebem uma mensagem privada no Discord antes do
 
   * Toda a gente se reúne em círculo.
 
-  * Um objeto físico (o "Token de Líder") passa de mão em mão para definir o Líder da ronda atual.
+  * Um objeto físico (o "Token de Líder") passa de mão em mão para definir a pessoa Líder da ronda atual.
 
 ### 2. A Escolha da Equipa (Branch & PR) 🤝
 
@@ -123,8 +123,10 @@ Assim que uma equipa chegar às 3 vitórias:
   * Se alguém se esquecer de mudar o git config, o commit vai aparecer com o nome e foto verdadeiros no GitHub. É "Game Over" para essas pessoas, então é melhor se calhar fazer uns testes antes.
 
 
-## About Git: 
+## Sobre o Git: 
 ![](speed_run_git.png)
+
+Cheat sheet [aqui](https://training.github.com/downloads/github-git-cheat-sheet.pdf).
 
 ### 🚑 Quick Troubleshoot (SOS)
 
